@@ -1,7 +1,7 @@
 # Hi! PARIS Hackathon - PISA MathScore Prediction & Motiva'Class
 
 <p align="center">
-<img src="education_and_AI.png" alt="Education_in_AI_era" width="600">
+<img src="assets/education_and_AI.png" alt="Education_in_AI_era" width="600">
 </p>
 
 Date: November 28 – December 1, 2025 (Final Sprint)
@@ -54,7 +54,7 @@ Design a data-driven solution to improve student concentration and motivation in
 ### Our Approach
 
 <p align="center">
-<img src="Scientific_Approach.png" alt="Approche_Scientifique" width="600">
+<img src="assets/Scientific_Approach.png" alt="Approche_Scientifique" width="600">
 </p>
 
 **Part 1: Predictive Modeling**
